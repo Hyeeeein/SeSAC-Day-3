@@ -1,0 +1,27 @@
+.header,.footer{height: 100px;
+                background-color: darkblue;}
+.main{height: 500px;
+    background-color: #0d0d66;}
+.mainbanner{height: 660px;
+            background-color: beige;}
+.container1{height: 420px;
+            margin:auto;background-color: beige;
+            width: 960px;
+            padding-top: 20px;}
+.container2{height: 200px;
+            background-color: beige;
+            width: 960px;
+            margin: auto;}
+.container1>div{height: 400px;
+                width: 307px;
+                background-color: #8a8ad3;
+                float: left;}
+.container2>div{height: 200px;
+                width: 470px;
+                background-color: blueviolet;
+                float: left;}
+.container1>.box1{background-color: #8dab59;}
+.container1>.box2{background-color: #653b9d;margin: 0 19.5px;}
+.container2>.box3{background-color: #9ee1e1;}
+.container2>.box4{background-color: #8d3b5d;margin: 0 20px 0 0;}
+.container2>.box5{background-color: #8cca6c;}
